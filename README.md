@@ -5,9 +5,9 @@ A **Chrome extension** built with **React, Vite & TypeScript** to help users tra
 
 ---
 
-## TASK 1
+## TASK 4
 
-![TASK 1](https://raw.githubusercontent.com/GamerBhushan/Productivity-Tracker-Chrome-Extension-React/refs/heads/Bhushan/images/Task_4.png)
+![TASK 4](https://raw.githubusercontent.com/GamerBhushan/Productivity-Tracker-Chrome-Extension-React/refs/heads/Bhushan/images/Task_4.png)
 
 ---
 
