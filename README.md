@@ -76,6 +76,9 @@ bun run build
 ## Daily Goal Setting
 ![s5](https://raw.githubusercontent.com/GamerBhushan/Productivity-Tracker-Chrome-Extension-React/refs/heads/Bhushan/images/ss/s5.png) 
 
+## About
+![s6](https://raw.githubusercontent.com/GamerBhushan/Productivity-Tracker-Chrome-Extension-React/refs/heads/Bhushan/images/ss/s6.png) 
+
 ---
 
 ## 🐟 License
