@@ -1,6 +1,9 @@
 /* Universal CSS for React Project with Dark Theme, Responsiveness, and Animations */
 
 /* Base Styles */
+
+/* We Are Not Using This */
+
 :root {
     --primary-color: #bb86fc;
     --primary-variant: #3700b3;

@@ -1,30 +1,33 @@
 {
-    "manifest_version": 3,
-    "name": "Productivity Tracker",
-    "version": "1.0.0",
-    "description": "Productivity Tracker",
-    "permissions": [
-        "storage",
-        "tabs",
-        "alarms"
-    ],
-    "icons": {
-        "16": "icons/icon.png",
-        "32": "icons/icon.png",
-        "48": "icons/icon.png",
-        "128": "icons/icon.png"
-    },
-    "action": {
-        "default_popup": "index.html",
-        "default_icon": {
-            "16": "icons/icon.png",
-            "32": "icons/icon.png",
-            "48": "icons/icon.png",
-            "128": "icons/icon.png"
-        }
-    },
-    "background": {
-        "service_worker": "background.js",
-        "type": "module"
+  "manifest_version": 3,
+  "name": "Productivity Tracker",
+  "version": "1.0",
+  "description": "Track and enhance your personal productivity.",
+  "permissions": [
+    "storage",
+    "tabs",
+    "alarms",
+    "webNavigation",
+    "scripting",
+    "activeTab",
+    "notifications"
+  ],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icons/icon.png",
+      "48": "icons/icon.png",
+      "128": "icons/icon.png"
     }
+  },
+  "icons": {
+    "16": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  }
 }

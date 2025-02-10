@@ -61,14 +61,20 @@ bun run build
 
 ## 📸 Screenshots
 
-<!-- ### 📊 Dashboard -->
-<!-- ![Dashboard Screenshot]() -->
+## Home
+![s1](https://raw.githubusercontent.com/GamerBhushan/Productivity-Tracker-Chrome-Extension-React/refs/heads/Bhushan/images/ss/s1.png) 
 
-<!-- ### ⏳ Website Tracking -->
-<!-- ![Website Tracking Screenshot]() -->
+## Website Time Tracker
+![s2](https://raw.githubusercontent.com/GamerBhushan/Productivity-Tracker-Chrome-Extension-React/refs/heads/Bhushan/images/ss/s2.png) 
 
-<!-- ### 🎯 Goal Setting -->
-<!-- ![Goal Setting Screenshot]() -->
+
+![s3](https://raw.githubusercontent.com/GamerBhushan/Productivity-Tracker-Chrome-Extension-React/refs/heads/Bhushan/images/ss/s3.png) 
+
+## We Can Navigate 
+![s4](https://raw.githubusercontent.com/GamerBhushan/Productivity-Tracker-Chrome-Extension-React/refs/heads/Bhushan/images/ss/s4.png) 
+
+## Daily Goal Setting
+![s5](https://raw.githubusercontent.com/GamerBhushan/Productivity-Tracker-Chrome-Extension-React/refs/heads/Bhushan/images/ss/s5.png) 
 
 ---
 
